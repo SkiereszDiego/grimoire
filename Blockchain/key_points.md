@@ -27,4 +27,4 @@ Existem dois tipos principais de blockchains: públicas e privadas (ou permissio
 A blockchain é uma tecnologia revolucionária com diversas aplicações além das criptomoedas. Ela permite o armazenamento seguro e imutável de dados, tornando-se uma ferramenta poderosa em setores como logística, saúde, governo, entre outros. Seu funcionamento é complexo, mas seu potencial é inegável, prometendo transformar diversos aspectos da sociedade de forma positiva.
 
 ## Exemplo de Blockchain:
-[Blockchain em Typescript - Prof of Work](https://github.com/SkiereszDiego/TsBlockchain)
+[Blockchain em Typescript - Proof of Work](https://github.com/SkiereszDiego/TsBlockchain)
